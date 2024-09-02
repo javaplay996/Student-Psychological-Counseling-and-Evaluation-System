@@ -1,0 +1,17 @@
+﻿所有项目开源给大家，本Git仓库只是其中一份。
+
+3300套JAVA毕业设计项目成品源码，需要的同学请自行下载~ 
+
+【获取方式1】 百度网盘：https://pan.baidu.com/s/1BmRAWyo5IZ-NDw52OBtp9w?pwd=l9ag 
+
+【获取方式2】 夸克网盘： 
+
+链接：https://pan.quark.cn/s/dd5057677bb2 
+
+提取码：RXbB
+
+启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
+
+安装包下载：https://pan.baidu.com/s/1s51E22bl8JoFoc1D-Qja1Q?pwd=ajhb
+
+学习交流Q群：971725191，入群备注Github，欢迎定制需求和商业合作。
